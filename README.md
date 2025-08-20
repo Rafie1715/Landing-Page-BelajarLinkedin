@@ -14,7 +14,7 @@ Sebuah landing page modern, responsif, dan interaktif yang dirancang untuk mempr
 
 Tambahkan screenshot dari halaman Anda di sini untuk memberikan gambaran visual.
 
-![Tampilan Landing Page](link-ke-screenshot-anda.png)
+![Tampilan Landing Page](Screenshot 2025-08-19 235730.png)
 
 -----
 
